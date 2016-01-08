@@ -6,6 +6,7 @@
     <title>@ViewBag.Title</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -20,8 +21,6 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, null)</li>
-                    <li>@Html.ActionLink("API", "Index", "Help", new { area = "" }, null)</li>
                     <li>@Html.ActionLink("Positions IT", "Index", "PositionsWeb", new { area = "" }, null)</li>
                 </ul>
             </div>
@@ -37,12 +36,18 @@
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+    <link href="~/Content/DataTables/css/jquery.dataTables.css" rel="stylesheet" />
     <script src="~/Scripts/Site/site.js"></script>
+
     @RenderSection("scripts", required: false)
 </body>
 </html>
 <script type="text/javascript">
-    $(document).ready(function() {
+    $(document).ready(function () {       
         loadPositions();
     });
+
+
 </script>

@@ -16,7 +16,7 @@ namespace JQueryWebAPI.Controllers
         {
             return context.Cargos;
         }
-
+         
         [HttpGet]
         public IQueryable<Cargos> SearchPositions(string position)
         {
