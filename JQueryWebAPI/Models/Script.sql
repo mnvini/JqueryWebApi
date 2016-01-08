@@ -1,0 +1,18 @@
+﻿INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (1, 'Arquiteto da Informação Júnior' ,'Arquitetura', '3.489,75');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (2, 'Gerente de Conteúdo Web' ,'Gerencia', '7.753,55');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (3, 'Web Designer Pleno' ,'Design', '2.002,88');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (4, 'Diretor de Processamento de Dados' ,'Diretoria', '21.685,47');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (5, 'Diretor de Programação' ,'Diretoria', '16.003,99');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (6, 'Analista Programador Sênior' ,'Programação', '5.386,59');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (7, 'Programador Sênior' ,'Programação', '3.955,76');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (8, 'Trainee de Programação' ,'Programação', '1.656,30');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (9, 'Gerente de Qualidade de Software' ,'Gerencia', '11.016,08');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (10, 'Administrador de Banco de Dados Pleno' ,'Banco de Dados', '4.761,69');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (11, 'Administrador de Banco de Dados Júnior' ,'Banco de Dados', '2.813,30');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (12, 'Supervisor de Administração de Banco de Dados' ,'Banco de Dados', '7.494,54');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (13, 'Assistente de Administração de Redes' ,'Redes', '1.414,56');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (14, 'Administrador de Redes Sênior' ,'Redes', '4.674,91');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (15, 'Administrador de Redes Júnior' ,'Redes', '2.396,31');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (16, 'Analista de Suporte Técnico em Informática' ,'Suporte', '2.953,98');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (17, 'Trainee de Suporte Técnico em Informática ' ,'Suporte', '1.366,06');
+INSERT INTO Cargos (idCargos, nome ,area,mediaSalario) VALUES (18, 'Técnico de Suporte em Informática' ,'Suporte', '1.402,62');
