@@ -22,7 +22,8 @@ function loadPositions() {
                     "sLengthMenu": "",
                     "sInfo": "",
                     "oPaginate": {
-                        "sNext": "Next"
+                        "sNext": "<span class='glyphicon glyphicon-chevron-right' aria-hidden='true'></span>",
+                        "sPrevious": "<span class='glyphicon glyphicon-chevron-left' aria-hidden='true'></span>"
                     },
                 },
   
