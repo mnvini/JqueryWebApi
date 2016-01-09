@@ -24,8 +24,8 @@ function loadPositions() {
                     "oPaginate": {
                         "sNext": "<span class='glyphicon glyphicon-chevron-right' aria-hidden='true'></span>",
                         "sPrevious": "<span class='glyphicon glyphicon-chevron-left' aria-hidden='true'></span>"
-                    },
-                },
+                    }
+                }
   
             });
            
